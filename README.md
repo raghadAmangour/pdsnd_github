@@ -1,17 +1,26 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+Saturday, December 10, 2022.
 
 ### Project Title
-Replace the Project Title
+Explore Us Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+In this project, Python code has been written to import US bike share data and answer interesting questions about it by calculating descriptive statistics. A script has also been written that takes raw input to create an interactive in-device experience to present these statistics.
 
 ### Files used
-Include the files used
+bikeshare_2.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+- The link for commit message style reference for this project is given below : 
+    - https://udacity.github.io/git-styleguide/
+  
+- Richard Kalehoff (Udacity mentor)
+    - https://github.com/richardkalehoff
 
+- Basics Python
+    - https://www.geeksforgeeks.org/python-programming-language/
+
+- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
